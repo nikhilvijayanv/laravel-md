@@ -1,3 +1,3 @@
 # Laravel 11 Documentation
 
-[Start Here](Introduction/01.%20Configuration.md)
+[Start Here](01.%20Introduction/01.%20Configuration.md)
